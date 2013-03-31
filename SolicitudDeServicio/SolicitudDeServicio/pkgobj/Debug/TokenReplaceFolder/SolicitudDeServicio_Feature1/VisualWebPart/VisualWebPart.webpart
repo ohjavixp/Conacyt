@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SolicitudDeServicio.VisualWebPart.VisualWebPart, SolicitudDeServicio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=347f16044cad0e84" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">SolicitudDeServicio - VisualWebPart</property>
+        <property name="Description" type="string">Mi elemento web visual</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="b31a5149-7244-4653-b333-b100d45950f4" Scope="Site" Title="SolicitudDeServicio Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart\Elements.xml" />
+    <ElementFile Location="VisualWebPart\VisualWebPart.webpart" />
+  </ElementManifests>
+</Feature>

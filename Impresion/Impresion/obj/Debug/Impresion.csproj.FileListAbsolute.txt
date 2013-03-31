@@ -1,0 +1,5 @@
+c:\users\mossadmin\documents\visual studio 2012\Projects\Impresion\Impresion\bin\Debug\Impresion.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\Impresion\Impresion\bin\Debug\Impresion.pdb
+c:\users\mossadmin\documents\visual studio 2012\Projects\Impresion\Impresion\obj\Debug\Impresion.csprojResolveAssemblyReference.cache
+c:\users\mossadmin\documents\visual studio 2012\Projects\Impresion\Impresion\obj\Debug\Impresion.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\Impresion\Impresion\obj\Debug\Impresion.pdb

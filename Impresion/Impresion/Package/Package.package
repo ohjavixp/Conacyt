@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5d915531-4a2a-4f53-bd1e-2fb61a4e036a" solutionId="5d915531-4a2a-4f53-bd1e-2fb61a4e036a" resetWebServer="false" name="Impresion" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="0c782e00-0649-4363-b086-7a2a8e90b1c7" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4bfda556-f829-459b-9e08-9dafafe8c4d1" />
+  </projectItems>
+</package>

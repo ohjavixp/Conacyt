@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="10718090-bccc-4736-a415-3b669e50168b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MesaDeAyuda.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="MesaDeAyuda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8267314dd3e655ba" Namespace="MesaDeAyuda.VisualWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\MesaDeAyuda\js\jquery-1.4.2.min.js" />
+    <TemplateFile Location="Layouts\MesaDeAyuda\js\jquery.smartWizard-2.0.js" />
+    <TemplateFile Location="Layouts\MesaDeAyuda\styles\smart_wizard.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MesaDeAyuda_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

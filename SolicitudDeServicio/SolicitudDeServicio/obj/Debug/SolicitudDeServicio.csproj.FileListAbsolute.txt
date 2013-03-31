@@ -1,0 +1,7 @@
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\obj\Debug\SolicitudDeServicio.csprojResolveAssemblyReference.cache
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\bin\Debug\SolicitudDeServicio.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\bin\Debug\SolicitudDeServicio.pdb
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\obj\Debug\SolicitudDeServicio.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\SolicitudDeServicio\SolicitudDeServicio\obj\Debug\SolicitudDeServicio.pdb

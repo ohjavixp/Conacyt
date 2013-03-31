@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5d915531-4a2a-4f53-bd1e-2fb61a4e036a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Impresion.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Impresion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6750cfd559186290" Namespace="Impresion.VisualWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Impresion_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

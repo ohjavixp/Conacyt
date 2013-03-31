@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="1be269d4-bf0f-411e-90b0-6a0372c15649" Scope="Site" Title="MesaDeAyuda Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart\Elements.xml" />
+    <ElementFile Location="VisualWebPart\VisualWebPart.webpart" />
+  </ElementManifests>
+</Feature>

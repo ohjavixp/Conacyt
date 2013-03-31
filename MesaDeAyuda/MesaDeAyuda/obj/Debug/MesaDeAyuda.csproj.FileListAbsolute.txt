@@ -1,0 +1,5 @@
+c:\users\mossadmin\documents\visual studio 2012\Projects\MesaDeAyuda\MesaDeAyuda\bin\Debug\MesaDeAyuda.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\MesaDeAyuda\MesaDeAyuda\bin\Debug\MesaDeAyuda.pdb
+c:\users\mossadmin\documents\visual studio 2012\Projects\MesaDeAyuda\MesaDeAyuda\obj\Debug\MesaDeAyuda.csprojResolveAssemblyReference.cache
+c:\users\mossadmin\documents\visual studio 2012\Projects\MesaDeAyuda\MesaDeAyuda\obj\Debug\MesaDeAyuda.dll
+c:\users\mossadmin\documents\visual studio 2012\Projects\MesaDeAyuda\MesaDeAyuda\obj\Debug\MesaDeAyuda.pdb

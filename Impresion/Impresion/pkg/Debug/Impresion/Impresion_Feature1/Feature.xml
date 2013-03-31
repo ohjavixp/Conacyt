@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="622585a6-3927-43b9-87bc-b3db0afbbc65" Scope="Site" Title="Impresion Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart\Elements.xml" />
+    <ElementFile Location="VisualWebPart\VisualWebPart.webpart" />
+  </ElementManifests>
+</Feature>

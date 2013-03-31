@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Impresion.VisualWebPart.VisualWebPart, Impresion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6750cfd559186290" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Impresion - VisualWebPart</property>
+        <property name="Description" type="string">Mi elemento web visual</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
